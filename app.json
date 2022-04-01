@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Bikelele",
+    "slug": "bikelele-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/bikelele-logo.png",
+    "splash": {
+      "image": "./assets/bikelele-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/bikelele-logo.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/bikelele-logo.png"
+    }
+  }
+}
