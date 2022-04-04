@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/bikelele-logo.png",
     "splash": {
-      "image": "./assets/bikelele-logo.png",
+      "image": "./assets/bikelele.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/bikelele-logo.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.yashg2910.bikeleleapp"
     },
     "web": {
       "favicon": "./assets/bikelele-logo.png"
